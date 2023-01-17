@@ -34,7 +34,7 @@ public class BankMenu extends CashWithdraw{
 			break;
 		case 2:
 			//CashWithdraw cw=new CashWithdraw();
-			BankMenu cw=new BankMenu();
+			CashWithdraw cw=new BankMenu();
 			cw.getName();
 			cw.getAcnbr();
 			cw.getcash();
